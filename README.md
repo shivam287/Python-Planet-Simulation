@@ -10,7 +10,7 @@ or
 
 In this i have covered only 4 Planets in our <b>Solar System</b> with their name and distance bw them and the Sun, But you can go for the whole solar system according to your curosity.
 <ul>
-  Planet list
+  ### Planet list
   <li>Mercury</li>
   <li>Venus</li>
   <li>Earth</li>
@@ -21,7 +21,7 @@ For Video Explaination please refer to <b>Tech with Tim</b> Youtube video.
 Link: <a href="https://www.youtube.com/watch?v=WTLPmUHTPqo&t=371s">Youtube Video Link !!!</a>
 
 <li>
-	📄 Resources 📄
+	### 📄 Resources 📄
 	<li>Original Source: <a href="https://fiftyexamples.readthedocs.io/en/latest/gravity.html">Link !!!</a>
 	(In this we have use Turtle Python Lib for creating this stimulation)
 	</li>
