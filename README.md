@@ -23,12 +23,12 @@ Link: <a href="https://www.youtube.com/watch?v=WTLPmUHTPqo&t=371s">Youtube Video
 
 
 ### 📄 Resources 📄
-<li>
+<ul>
 	<li>Original Source: <a href="https://fiftyexamples.readthedocs.io/en/latest/gravity.html">Link !!!</a>
 	(In this we have use Turtle Python Lib for creating this stimulation)
 	</li>
 	<li>Code for this, <a href="https://github.com/shivam287/Python-Planet-Simulation">Link !!!</a></li>
-</li>
+</ul>
 
 
 ### Enjoy !!!!
